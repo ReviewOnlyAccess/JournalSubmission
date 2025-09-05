@@ -5,7 +5,7 @@ This repository contains the **few-shot prompt** used in our research for extrac
 ## Contents
 
 - `fewshot_prompt.txt` → The prompt template used for all experiments.
-- `delta_analysis.png` → Visualization of the delta analysis comparing our silver label (GPT-4o) with the four selected LLMs (LLaMA, Mistral, Qwen, DeepSeek).
+- `Delta Analysis.png` → Visualization of the delta analysis comparing our silver label (GPT-4o) with the four selected LLMs (LLaMA, Mistral, Qwen, DeepSeek).
 
 ## Usage
 
