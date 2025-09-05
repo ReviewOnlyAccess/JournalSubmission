@@ -1,10 +1,10 @@
-## Few-Shot Prompt for Sentiment Extraction
+## Few-Shot Prompt for Sentiment Scoring
 
-This repository contains the **few-shot prompt** used in our research for extracting sentiment from **financial news articles** with large language models (LLMs).
+This repository contains the **few-shot prompt** used in our research for extracting sentiment scores from **financial news articles** with large language models (LLMs).
 
 ### Contents
 
-- <fewshot_prompt.txt> → The prompt template used for all experiments.
+- `fewshot_prompt.txt` → The prompt template used for all experiments.
 
 ### Usage
 
@@ -15,9 +15,5 @@ The prompt was provided as input to **four different LLMs** (LlaMa, Deepseek, Mi
 - The outputs were compared across models.
 
 ### Notes
-
-- This repository contains **only the prompt** used in the study.
-
-- No model weights, training data, or evaluation scripts are included here.
 
 - Shared for **review purposes only** as part of a conference submission.
